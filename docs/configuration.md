@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Task 1
+title: Create a board
 nav_order: 2
 ---
 
-# Configuration
+# Create a board
 {: .no_toc }
 
 
