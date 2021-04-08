@@ -13,7 +13,7 @@ A Trello Board allows you to organize all the tasks for your team. Let’s start
 
 
 
-![Linux mascot](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-1-image-1.png?raw=true "Tux")
+![Linux mascot](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-1-image-1.png?raw=true "Tux") {: style="float: left" }
 ---
 
 
