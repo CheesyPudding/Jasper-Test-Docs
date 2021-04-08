@@ -5,13 +5,6 @@ nav_order: 3
 ---
 
 # Create List and Card
-{: .no_toc }
-
-
-A Trello Board allows you to organize all the tasks for your team. Let’s start by creating a board and a team.
-{: .fs-6 .fw-300 }
-
-
 
 ---
 
