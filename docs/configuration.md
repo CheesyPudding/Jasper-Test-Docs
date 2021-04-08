@@ -13,12 +13,11 @@ A Trello Board allows you to organize all the tasks for your team. Let’s start
 
 
 
-![Linux mascot](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-1-image-1.png?raw=true "Tux") {: style="float: left" }
 ---
 
-<img align="right" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-1-image-1.png">
 
 1. First, make sure you are on the home page by clicking on the home button.
+<img align="centre" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-1-image-1.png">
 
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
