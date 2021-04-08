@@ -8,7 +8,7 @@ nav_order: 6
 
 ---
 
-Problem with creating a board
+#Problem with creating a board
 **1.** First, make sure you are on the home page by clicking on the home button.
 
 <p align="center">
