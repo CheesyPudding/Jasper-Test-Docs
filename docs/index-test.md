@@ -4,7 +4,7 @@ title: Create a board
 nav_order: 6
 ---
 
-# TroubShooting
+# TroubleShooting
 
 ---
 
