@@ -11,8 +11,6 @@ nav_order: 3
 A Trello Board allows you to organize all the tasks for your team. Let’s start by creating a board and a team.
 {: .fs-6 .fw-300 }
 
-edited new file
-
 ---
 
 
@@ -27,6 +25,9 @@ View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/
 
 
 
+
+
+Congratulations! You have made your first board!
 
 If you are having trouble creating a board, see [Troubleshooting](https://cheesypudding.github.io/Jasper-Test-Docs/docs/index-test/)
 
