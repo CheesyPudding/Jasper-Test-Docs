@@ -1,12 +1,12 @@
 ---
 layout: default
 title: Create a board
-nav_order: 2
+nav_order: 12
 ---
 
 # Create a board
 {: .no_toc }
-
+DELETE THIS PAGE
 
 A Trello Board allows you to organize all the tasks for your team. Let’s start by creating a board and a team.
 {: .fs-6 .fw-300 }
