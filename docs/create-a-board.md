@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Create a board
-nav_order: 8
+nav_order: 3
 ---
 
 # Create a board
