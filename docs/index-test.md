@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Create a board
+title: Troubleshooting
 nav_order: 6
 ---
 
