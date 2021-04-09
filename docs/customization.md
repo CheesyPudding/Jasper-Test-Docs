@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Create List and Card
+title: Invite members to board
 nav_order: 3
 ---
 
-# Create List and Card
+# Invite members to board
 
 ---
 
