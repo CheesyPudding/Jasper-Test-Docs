@@ -8,7 +8,7 @@ nav_order: 3
 {: .no_toc }
 
 
-A Trello Board allows you to organize all the tasks for your team. Let’s start by creating a board and a team.
+A Trello board allows you to organize tasks for your team. Let’s start by creating a team and a board.
 {: .fs-6 .fw-300 }
 
 ---
@@ -55,7 +55,7 @@ A Trello Board allows you to organize all the tasks for your team. Let’s start
 
 **6.** Give your board a name. Selecting “Team visible" ensures your team members can collaborate on it.
 
-(CAUTION: Make sure your team name is selected to ensure the board you make is for the right team.)
+<img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/caution.png?raw=true">(CAUTION: Make sure your team name is selected to ensure the board you make is for the right team.)
 
 <p align="center">
   <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-6-image-1.png?raw=true">
