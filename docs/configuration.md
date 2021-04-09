@@ -26,6 +26,11 @@ A Trello Board allows you to organize all the tasks for your team. Let’s start
 View this site's [_config.yml](https://github.com/pmarsceill/just-the-docs/tree/master/_config.yml) file as an example.
 
 
+
+
+If you are having trouble creating a board, see [Troubleshooting](https://cheesypudding.github.io/Jasper-Test-Docs/docs/index-test/)
+
+
 IGNORE EVERYTHING BELOW; DELETE LATER
 {: .fs-16 .fw-300}
 
