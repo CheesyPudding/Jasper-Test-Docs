@@ -59,20 +59,3 @@ nav_order: 5
   <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/6CreateList-Step5.jpg?raw=true">
 </p>
 
-
-### Collapsible Table of Contents
-
-The Table of Contents can be made collapsible using the `<details>` and `<summary>` elements , as in the following example. The attribute `open` (expands the Table of Contents by default) and the styling with `{: .text-delta }` are optional.
-
-```markdown
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-```
-
-The result is shown at [the top of this page](#navigation-structure) (`{:toc}` can be used only once on each page).
