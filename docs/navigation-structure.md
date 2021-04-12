@@ -33,31 +33,31 @@ To fill our board with contents, we will create a few lists and cards. Each card
 **1.** Now let’s first add a list to the board. Example below shows three lists To do, Doing and Done. You can create more lists and you can give it any name you want. Simply by clicking on the + Add another list icon as shown below.
 
 <p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-Lists-and-cards-step-1.png?raw=true">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-1.png?raw=true">
 </p>
 
 **2.** After creating a list you can create cards simply by clicking on the + Add a card icon, and name the card to a specific task you must complete.
 
 <p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-Lists-and-cards-step-2.png?raw=true">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2.png?raw=true">
 </p>
 
 <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove an unwanted or excessive list, click the three dots in the top-right corner of a list and click the last option “Archive this list” in the pop-up menu.
 
 <p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-Lists-and-cards-step-2-NOTE.png?raw=true">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2-NOTE.png?raw=true">
 </p>
 
 Archiving a list will remove it from the board, but they can still be recovered by accessing the “... more” button on the right-side menu and clicking the “Archived items” button on the more menu. 
 
 <p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-Lists-and-cards-step-2-NOTE-2.png?raw=true">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2-NOTE-2.png?raw=true">
 </p>
 
 **3.** Once you have filled your list(s) with many cards, you can simply rearrange the order of them by holding on a card and dragging it up or down to the desired order.
 
 <p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-Lists-and-cards-step-3.png?raw=true">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-3.png?raw=true">
 </p>
 
 ## Customize Cards
