@@ -59,6 +59,10 @@ Archiving a list will remove it from the board, but they can still be recovered 
   <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-3.PNG?raw=true">
 </p>
 
+
+---
+
+
 ## Customize Cards
 We will now fill our empty cards by detailing them with some features in Trello. You can edit the name of the card by clicking on the text, add descriptions, write comments, add members, labels, checklist, due date, add attachment, and create covers for your card.
 
