@@ -78,7 +78,7 @@ We will now fill our empty cards by detailing them with some features in Trello.
 **2.** This is the card editing menu where you can now freely edit the card. There are many options in this menu. 
 
 <p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2 -&-step-4.png.png?raw=true">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2 -&-step-4.png?raw=true">
 </p>
 
 First, let’s assign yourself to a task by clicking the first button “Members” on the “Add to card” list on the right side.
