@@ -11,7 +11,6 @@ Lists and cards comprise the main content of a trello board. This page will focu
 {: .fs-6 .fw-300 }
 
 For more information on lists vs. cards: [(see the glossary on cards and lists)](https://cheesypudding.github.io/Jasper-Test-Docs/docs/search/)
-{: .fs-6 .fw-300 }
 
 ---
 
