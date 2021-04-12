@@ -10,7 +10,7 @@ nav_order: 5
 Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
 {: .fs-6 .fw-300 }
 
-For more information on lists vs. cards: [see the glossary on cards and lists](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/docs/search/)
+For more information on lists vs. cards: [see the glossary on cards and lists](https://cheesypudding.github.io/Jasper-Test-Docs/docs/search/)
 {: .fs-6 .fw-300 }
 
 ---
@@ -93,7 +93,7 @@ Next, select the member(s) you would like to assign to the task. For example, ad
   <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2-3.PNG?raw=true">
 </p>
 
-<img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** Cards can have multiple assigned members, but you will need to invite members to your board first. [see the instructions on inviting members to a board](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/docs/customization/)
+<img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** Cards can have multiple assigned members, but you will need to invite members to your board first. [see the instructions on inviting members to a board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/customization/)
 
 **3.** Next, let’s add a short description that gives the task a little more info. First access the card editing menu again and click on the box in the middle of the menu underneath the “Description” tag. 
 
