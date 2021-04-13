@@ -58,14 +58,14 @@ Alternatively, send your team members a generated link by clicking on 'Create li
 **1.** Once you have your team members added, you will see a series of their avatars at the top. Click on the member avatar you would like to change permissions for and click 'Change permissions'.
 
 <p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-1-image-1?raw=true">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-1-image-1.png?raw=true">
 </p>
 <br />
 
 **2.** Toggle on admin permissions by clicking on 'Admin'. There will now be an arrow beside the word 'Admin' that indicates this. You would also note that double arrows also indicate admin status.
 
 <p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-2-image-1?raw=true">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-2-image-1.png?raw=true">
 </p>
 <br />
 
