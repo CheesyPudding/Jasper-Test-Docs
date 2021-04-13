@@ -19,7 +19,7 @@ After you have [created your team board](https://cheesypudding.github.io/Jasper-
 
 ---
 
-# Add team member
+## Add team member
 **1.** First, make sure you have navigated to the board that you would like to add members to by clicking on the Boards button.
 
 <p align="center">
@@ -54,8 +54,21 @@ Alternatively, send your team members a generated link by clicking on 'Create li
 <br />
 
 
-# Add another admin
+## Add another admin
+**1.** Once you have your team members added, you will see a series of their avatars at the top. Click on the member avatar you would like to change permissions for and click 'Change permissions'.
+
+<p align="center">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-1-image-1?raw=true">
+</p>
+<br />
+
+**2.** Toggle on admin permissions by clicking on 'Admin'. There will now be an arrow beside the word 'Admin' that indicates this. You would also note that double arrows also indicate admin status.
+
+<p align="center">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-2-image-1?raw=true">
+</p>
+<br />
 
 
-# Manage permissions
+## Manage permissions
 
