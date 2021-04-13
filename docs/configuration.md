@@ -15,14 +15,11 @@ A Trello board allows you to organize tasks for your team. Let’s start by crea
 
 1. First, make sure you are on the home page by clicking on the home button.
 
-    ![home button](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-1-image-1.png?raw=true "home button"){: .centre}
+    ![home button](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-1-image-1.png?raw=true "home button")
 
 2. Then, create a team by clicking on the plus button on the left side of the page.
 
-<p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-2-image-1.png?raw=true">
-</p>
-<br />
+    ![plus button](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-2-image-1.png?raw=true)
 
 3. Give your team a name and the team type. You could also give your team a description, but it is not mandatory.
 
