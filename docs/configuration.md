@@ -16,7 +16,7 @@ A Trello board allows you to organize tasks for your team. Let’s start by crea
 **1.** First, make sure you are on the home page by clicking on the home button.
 
 <p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-1-image-1.png?raw=true" "test">
+  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-1-image-1.png?raw=true" alt="test">
 </p>
 <br />
 
