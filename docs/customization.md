@@ -21,14 +21,14 @@ After you have [created your team board](https://cheesypudding.github.io/Jasper-
 ---
 
 ## Add team member
-**1.** First, make sure you have navigated to the board that you would like to add members to by clicking on the Boards button.
+1. First, make sure you have navigated to the board that you would like to add members to by clicking on the Boards button.
 
 <p align="center">
   <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-1-image-1.png?raw=true">
 </p>
 <br />
 
-**2.** Invite team members by clicking on the “Invite” button at the middle-top of the page.
+2. Click on the “Invite” button at the middle-top of the page to invite team members. The next image shows a window that will appear.
 
 <p align="center">
   <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-2-image-1.png?raw=true">
@@ -56,14 +56,14 @@ Alternatively, send your team members a generated link by clicking on 'Create li
 
 
 ## Add another admin
-**1.** Once you have your team members added, you will see a series of their avatars at the top. Click on the member avatar you would like to change permissions for and click 'Change permissions'.
+1. Once you have your team members added, you will see a series of their avatars at the top. Click on the member avatar you would like to change permissions for and click 'Change permissions'.
 
 <p align="center">
   <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-1-image-1.png?raw=true">
 </p>
 <br />
 
-**2.** Toggle on admin permissions by clicking on 'Admin'. There will now be an arrow beside the word 'Admin' that indicates this. You would also note that double arrows also indicate admin status.
+2. Toggle on admin permissions by clicking on 'Admin'. There will now be an arrow beside the word 'Admin' that indicates this. You would also note that double arrows also indicate admin status.
 
 <p align="center">
   <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-2-image-1.png?raw=true">
