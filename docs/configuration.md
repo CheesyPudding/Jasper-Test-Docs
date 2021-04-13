@@ -25,9 +25,10 @@ A Trello board allows you to organize tasks for your team. Let’s start by crea
 
     ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-3-image-1.png?raw=true "build a team")
     
-    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true "Note")**NOTE** You could give your team a description, but it is not mandatory. 
+    <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true"> **NOTE** You could give your team a description, but it is not mandatory. 
 
     ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true "Note")**NOTE** You now have the option to invite your team members to the board now, or you can do it in a later step (See [Invite members to board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/customization/)).
+    
 
     ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-a-board-step-4-image-1.png?raw=true "invite team members")
 
