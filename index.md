@@ -36,7 +36,7 @@ This document is recommended for any student group working on a group project, w
 ## Icons used in this document
 <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** This note icon points out additional information that could help you understand certain steps.
 
-</br>
-</br>
+<br />
+<br />
 
 <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/caution.png?raw=true">**CAUTION** This caution icon points out steps where attention should be given to ensure the steps work out as intended.
