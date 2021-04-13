@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Using lists and cards
+title: Use lists and cards
 nav_order: 5
 ---
 
-# Using lists and cards
+# Use lists and cards
 {: .no_toc }
 
 Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
