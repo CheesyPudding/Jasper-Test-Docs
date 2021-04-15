@@ -40,7 +40,7 @@ image 3
 Note: you can filter for a specific member
 
 ## Team member not receiving an invite email
-There are several possible reasons why your team member is not recieving an invitation email.
+There are several possible reasons why your team member might not be recieving an invitation email.
 
 **Check SPAM**
 * Always check your SPAM first. 
