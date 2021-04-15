@@ -18,3 +18,7 @@ List stores cards and can be seen as different stages of a project where cards o
 
 Cards can be seen as individual tasks that are stored in different lists. Cards can be assigned to a specific member, with due dates and other information that is needed for the task.
 
+**Handle**
+
+User name or id that represents a user account. Can be a link to their information or way to add user and remove them.
+
