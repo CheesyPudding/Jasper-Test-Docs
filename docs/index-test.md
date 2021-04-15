@@ -43,7 +43,7 @@ Note: you can filter for a specific member
 
 * As a way of avoiding unintentional SPAM, Trello only sends one invitation email.
 * Always check your SPAM first. 
-* If an invitation email is not found user can manually create a Trello account at [link text itself]: https://trello.com/signup
+* If an invitation email is not found user can manually create a Trello account at [https://trello.com/signup]: https://trello.com/signup
 * If the problem persists refer to Problems with email confirmation and password reset emails section of the troubleshoot.
 
 ## Problems with email confirmation and password reset emails
@@ -57,5 +57,5 @@ Note: you can filter for a specific member
   * atlassian-support@am.atlassian.com
   * Return-Path: @spemail.trello.com, e.g. bounces.notification+user=domain.com@spemail.trello.com
   * Reply-To: @boards.trello.com, e.g. user+4d713bcb37a18a4697f+53e3d3ee31b131f05bf+8f1b94b27e@boards.trello.com
-* You can request to have the confirmation email resent with the link below if you are not using Trello with an Atlassian. [link text itself]: https://trello.com/resendValidate
+* You can request to have the confirmation email resent with the link below if you are not using Trello with an Atlassian. [https://trello.com/resendValidate]: https://trello.com/resendValidate
 
