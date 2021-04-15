@@ -41,9 +41,11 @@ Note: you can filter for a specific member
 
 ## Team member not receiving an invite email
 There are several possible reasons why your team member is not recieving an invitation email.
+
 **Check SPAM**
 * Always check your SPAM first. 
 * As a way of avoiding unintentional SPAM, Trello only sends one invitation email.
+
 **Create Account Manually**
 * If an invitation email is not found user can manually create a Trello account at (https://trello.com/signup)
 * If the problem persists refer to Problems with email confirmation and password reset emails section of the troubleshoot.
@@ -53,6 +55,7 @@ There are several possible reasons you might face with email confimation and pas
 
 **Check SPAM**
 * First check your SPAM
+
 **Header and Domain**
 * Refer to the email form below and consider adding the header and domain to your address book or have your network administrator allow them.
   * do-not-reply@trello.com
@@ -62,6 +65,7 @@ There are several possible reasons you might face with email confimation and pas
   * atlassian-support@am.atlassian.com
   * Return-Path: @spemail.trello.com, e.g. bounces.notification+user=domain.com@spemail.trello.com
   * Reply-To: @boards.trello.com, e.g. user+4d713bcb37a18a4697f+53e3d3ee31b131f05bf+8f1b94b27e@boards.trello.com
-**Header and Domain**
+ 
+**Request Another Confirmation**
 * You can request to have the confirmation email resent with the link below if you are not using Trello with an Atlassian.(https://trello.com/resendValidate) 
 
