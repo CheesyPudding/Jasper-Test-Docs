@@ -54,7 +54,8 @@ There are several possible reasons why your team member might not be recieving a
 There are several possible reasons you might face with email confimation and password reset.
 
 **Check SPAM**
-* First check your SPAM
+* Always check your SPAM first. 
+* As a way of avoiding unintentional SPAM, Trello only sends one invitation email.
 
 **Header and Domain**
 * Refer to the email form below and consider adding the header and domain to your address book or have your network administrator allow them.
