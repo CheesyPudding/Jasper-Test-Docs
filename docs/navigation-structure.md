@@ -37,7 +37,7 @@ Now let’s first add a list to the board. Example below shows three lists To do
 <br />
 <br />
 
-2. After creating a list you can create cards simply by clicking on the "+ Add a card" icon, and name the card to a specific task you must complete.
+2. You can create cards simply by clicking on the "+ Add a card" icon, and name the card to a specific task you must complete after creating a list.
 <br />
 
   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2.png?raw=true "add a card")
@@ -56,7 +56,7 @@ Archiving a list will remove it from the board, but they can still be recovered 
 <br />
 <br />
 
-3. Once you have filled your list(s) with many cards, you can simply rearrange the order of them by holding on a card and dragging it up or down to the desired order.
+3. You can rearrange the order your cards in a list by holding on a card and dragging it up or down to the desired order.
 
 ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-3.PNG?raw=true "rearrange cards")
 <br />
@@ -84,7 +84,7 @@ This is the card editing menu where you can now freely edit the card. There are 
 <br />
 <br />
 
-2. First, let’s assign yourself to a task by clicking the first button “Members” on the “Add to card” list on the right side.
+2. Click the first button “Members” on the “Add to card” list on the right side to start assigning yourself to a task.
 
 ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2-2.PNG?raw=true "assign member")
 <br />
