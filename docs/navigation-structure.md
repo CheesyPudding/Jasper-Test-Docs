@@ -32,17 +32,18 @@ To fill our board with content, we will create a few lists and cards. Each card 
 Now let’s first add a list to the board. Example below shows three lists To do, Doing and Done. You can create more lists and you can give it any name you want. 
 1. Click on the "+ Add another list" icon as shown below.
 
-  ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-1.png?raw=true "add another list")
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-1.png?raw=true "add another list")
 <br />
 <br />
 
 2. After creating a list you can create cards simply by clicking on the "+ Add a card" icon, and name the card to a specific task you must complete.
 
 
-  ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2.png?raw=true "add a card")
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2.png?raw=true "add a card")
 <br />
 
 <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove an unwanted or excessive list, click the three dots in the top-right corner of a list and click the last option “Archive this list” in the pop-up menu.
+<br />
 
 ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2-NOTE.PNG?raw=true "remove list")
 <br />
@@ -73,6 +74,7 @@ We will now fill our empty cards by detailing them with some features in Trello.
 <br />
 
 <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove an unwanted card, follow this step and click the "Archive” button at the very bottom of the pop-up editing menu when right-clicking a card. Archiving a card will remove it from the board, but they can still be recovered the same way as a list. (see the note on archiving a list for recovering a card)
+<br />
 
 This is the card editing menu where you can now freely edit the card. There are many options in this menu. 
 
@@ -92,6 +94,7 @@ This is the card editing menu where you can now freely edit the card. There are 
 <br />
 
 <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** Cards can have multiple assigned members, but you will need to invite members to your board first. [(see the instructions on inviting members to a board)](https://cheesypudding.github.io/Jasper-Test-Docs/docs/customization/)
+<br />
 
 4. Next, let’s add a short description that gives the task a little more info. First access the card editing menu again and click on the box in the middle of the menu underneath the “Description” tag. 
 
