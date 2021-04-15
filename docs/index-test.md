@@ -39,7 +39,7 @@ You can then set which member is able to send invitations or change the workplac
 image 3
 Note: you can filter for a specific member
 
-## Invite members to board
+## Team member not receiving an invite email
 After you have [created your team board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/configuration/), it is time to add your team members and manage board editing permissions.
 {: .no_toc }
 {: .fs-6 .fw-300 }
@@ -58,7 +58,7 @@ After you have [created your team board](https://cheesypudding.github.io/Jasper-
 * If an invitation email is not found user can manually create a Trello account at https://trello.com/signup
 * If the problem persists refer to Problems with email confirmation and password reset emails section of the troubleshoot.
 
-## Invite members to board
+## Problems with email confirmation and password reset emails
 After you have [created your team board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/configuration/), it is time to add your team members and manage board editing permissions.
 {: .no_toc }
 {: .fs-6 .fw-300 }
