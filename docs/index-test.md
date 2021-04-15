@@ -46,7 +46,7 @@ Note: you can filter for a specific member
 * If an invitation email is not found user can manually create a Trello account at [https://trello.com/signup]: https://trello.com/signup
 * If the problem persists refer to Problems with email confirmation and password reset emails section of the troubleshoot.
 
-## Problems with email confirmation and password reset emails
+## Problems with email confirmation and password reset
 
 * First check your SPAM
 * Refer to the email form below and consider adding the header and domain to your address book or have your network administrator allow them.
