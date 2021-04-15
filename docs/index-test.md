@@ -5,8 +5,7 @@ nav_order: 6
 ---
 
 # Troubleshooting
-After you have [created your team board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/configuration/), it is time to add your team members and manage board editing permissions.
-{: .no_toc }
+Here are some of the common issues you might face when using trello.
 {: .fs-6 .fw-300 }
 
 <details open markdown="block">
@@ -22,7 +21,7 @@ After you have [created your team board](https://cheesypudding.github.io/Jasper-
 ---
 
 ## Problem with creating a board
-There are several possible reasons why you cannot create a board.
+There are several possible reasons why you cannot create a board. 
 
 
 **Free tier limit**
