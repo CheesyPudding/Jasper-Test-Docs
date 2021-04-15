@@ -23,53 +23,46 @@ After you have [created your team board](https://cheesypudding.github.io/Jasper-
 ## Add team member
 1. First, make sure you have navigated to the board that you would like to add members to by clicking on the Boards button.
 
-<p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-1-image-1.png?raw=true">
-</p>
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-1-image-1.png?raw=true "board button")
+<br />
 <br />
 
 2. Click on the “Invite” button at the middle-top of the page to invite team members. The next image shows a window that will appear.
 
-<p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-2-image-1.png?raw=true">
-</p>
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-2-image-1.png?raw=true "invite button")
+<br />
 <br />
 
-<p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-2-image-2.png?raw=true">
-</p>
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-2-image-2.png?raw=true "invite window")
+<br />
 <br />
 
 <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** You can invite members if they are already existing Trello members. Just search for their [handle](https://cheesypudding.github.io/Jasper-Test-Docs/docs/search/) or name.
 For example:
 <br />
-<p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-2-image-3.png?raw=true">
-</p>
+
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-2-image-3.png?raw=true "invite member demo")
+<br />
 <br />
 
 Alternatively, send your team members a generated link by clicking on 'Create link', as seen in the image above.
-<p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-2-image-4.png?raw=true">
-</p>
-<br />
 
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-2-image-4.png?raw=true "invite link")
+<br />
+<br />
 
 ## Add another admin
 1. Once you have your team members added, you will see a series of their avatars at the top. Click on the member avatar you would like to change permissions for and click 'Change permissions'.
 
-<p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-1-image-1.png?raw=true">
-</p>
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-1-image-1.png?raw=true "change permissions window")
+<br />
 <br />
 
 2. Toggle on admin permissions by clicking on 'Admin'. There will now be an arrow beside the word 'Admin' that indicates this. You would also note that double arrows also indicate admin status.
 
-<p align="center">
-  <img src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-2-image-1.png?raw=true">
-</p>
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-2-image-1.png?raw=true "toggle on admin")
 <br />
-
+<br />
 
 ## Manage permissions
 
