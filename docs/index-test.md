@@ -18,11 +18,11 @@ After you have [created your team board](https://cheesypudding.github.io/Jasper-
 {:toc}
 </details>
 
-## TroubleShooting
+# TroubleShooting
 
 ---
 
-#Problem with creating a board
+## Problem with creating a board
 There are several possible reasons why you cannot create a board.
 
 
