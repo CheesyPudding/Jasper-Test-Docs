@@ -18,7 +18,6 @@ After you have [created your team board](https://cheesypudding.github.io/Jasper-
 {:toc}
 </details>
 
-# TroubleShooting
 
 ---
 
