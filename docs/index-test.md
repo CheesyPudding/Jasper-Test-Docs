@@ -4,7 +4,21 @@ title: Troubleshooting
 nav_order: 6
 ---
 
-# TroubleShooting
+# Invite members to board
+After you have [created your team board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/configuration/), it is time to add your team members and manage board editing permissions.
+{: .no_toc }
+{: .fs-6 .fw-300 }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>
+
+## TroubleShooting
 
 ---
 
@@ -26,14 +40,38 @@ You can then set which member is able to send invitations or change the workplac
 image 3
 Note: you can filter for a specific member
 
-#Team member not receiving an invite email
+## Invite members to board
+After you have [created your team board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/configuration/), it is time to add your team members and manage board editing permissions.
+{: .no_toc }
+{: .fs-6 .fw-300 }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>Team member not receiving an invite email
 
 * As a way of avoiding unintentional SPAM, Trello only sends one invitation email.
 * Always check your SPAM first. 
 * If an invitation email is not found user can manually create a Trello account at https://trello.com/signup
 * If the problem persists refer to Problems with email confirmation and password reset emails section of the troubleshoot.
 
-#Problems with email confirmation and password reset emails#
+## Invite members to board
+After you have [created your team board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/configuration/), it is time to add your team members and manage board editing permissions.
+{: .no_toc }
+{: .fs-6 .fw-300 }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+1. TOC
+{:toc}
+</details>Problems with email confirmation and password reset emails#
 
 * First check your SPAM
 * Refer to the email form below and consider adding the header and domain to your address book or have your network administrator allow them.
