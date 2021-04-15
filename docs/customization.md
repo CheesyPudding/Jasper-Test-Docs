@@ -21,7 +21,7 @@ After you have [created your team board](https://cheesypudding.github.io/Jasper-
 ---
 
 ## Add team member
-1. First, make sure you have navigated to the board that you would like to add members to by clicking on the Boards button.
+1. Navigate to the board that you would like to add members to by clicking on the Boards button.
 
     ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-step-1-image-1.png?raw=true "board button")
 <br />
@@ -52,7 +52,7 @@ Alternatively, send your team members a generated link by clicking on 'Create li
 <br />
 
 ## Add another admin
-1. Once you have your team members added, you will see a series of their avatars at the top. Click on the member avatar you would like to change permissions for and click 'Change permissions'.
+1. Click on the member avatar you would like to change permissions for and click 'Change permissions'. Once you have your team members added, you will see a series of their avatars at the top. 
 
    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-add-admin-step-1-image-1.png?raw=true "change permissions window")
 <br />
@@ -65,4 +65,33 @@ Alternatively, send your team members a generated link by clicking on 'Create li
 <br />
 
 ## Manage permissions
+1. Click on "Show menu" on the top right corner of your board home page.
 
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-permissions-step-1-image-1.png?raw=true "show menu")
+<br />
+<br />
+
+2. Click on "More".
+
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-permissions-step-2-image-1.png?raw=true "more menu")
+<br />
+<br />
+
+3. Click on "Settings".
+
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-permissions-step-3-image-1.png?raw=true "settings")
+<br />
+<br />
+
+4. Set member permissions by clicking on the text.
+
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-permissions-step-4-image-1.png?raw=true "various permissions")
+<br />
+
+These are menus that pop-up, which you can select the appropriate permission for your team members:
+
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/invite-members-permissions-step-4-image-2.png?raw=true "various permissions")
+
+<br />
+
+Great! Now that your team is set up on the same board, create and assign tasks for your team members with Trello's [lists and cards](https://cheesypudding.github.io/Jasper-Test-Docs/docs/navigation-structure/).
