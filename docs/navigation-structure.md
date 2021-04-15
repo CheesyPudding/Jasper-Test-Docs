@@ -57,8 +57,9 @@ Archiving a list will remove it from the board, but they can still be recovered 
 <br />
 
 3. You can rearrange the order your cards in a list by holding on a card and dragging it up or down to the desired order.
+<br />
   
-      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-3.PNG?raw=true "rearrange cards")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-3.PNG?raw=true "rearrange cards")
 <br />
 <br />
 
@@ -85,8 +86,9 @@ This is the card editing menu where you can now freely edit the card. There are 
 <br />
 
 2. Click the first button “Members” on the “Add to card” list on the right side to start assigning yourself to a task.
+<br />
 
-      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2-2.PNG?raw=true "assign member")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2-2.PNG?raw=true "assign member")
 <br />
 <br />
 
