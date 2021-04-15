@@ -37,7 +37,6 @@ Now let’s first add a list to the board. Example below shows three lists To do
 <br />
 
 2. After creating a list you can create cards simply by clicking on the "+ Add a card" icon, and name the card to a specific task you must complete.
-<br />
 
   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2.png?raw=true "add a card")
 <br />
@@ -49,7 +48,6 @@ Now let’s first add a list to the board. Example below shows three lists To do
 <br />
 
 Archiving a list will remove it from the board, but they can still be recovered by accessing the “... more” button on the right-side menu and clicking the “Archived items” button on the more menu. 
-<br />
 
 ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2-NOTE-2.PNG?raw=true "recover archive")
 <br />
