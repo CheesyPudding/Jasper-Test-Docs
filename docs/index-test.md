@@ -4,7 +4,7 @@ title: Troubleshooting
 nav_order: 6
 ---
 
-# Invite members to board
+# Troubleshooting
 After you have [created your team board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/configuration/), it is time to add your team members and manage board editing permissions.
 {: .no_toc }
 {: .fs-6 .fw-300 }
