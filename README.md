@@ -70,3 +70,15 @@ When the theme is released, only the files in `_layouts`, `_includes`, and `_sas
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+## References
+Problem with creating a board
+https://help.trello.com/article/1237-why-cant-i-create-a-board
+Team member not receiving an invite email
+https://help.trello.com/article/716-not-receiving-confirmation-emails-or-password-reset-emails
+https://help.trello.com/article/716-not-receiving-confirmation-emails-or-password-reset-emails
+Problems with email confirmation and password reset emails.
+https://help.trello.com/article/716-not-receiving-confirmation-emails-or-password-reset-emails
+
+
+
