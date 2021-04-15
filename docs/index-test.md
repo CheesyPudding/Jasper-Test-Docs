@@ -40,6 +40,7 @@ image 3
 Note: you can filter for a specific member
 
 ## Team member not receiving an invite email
+There are several possible reasons why your team member is not recieving an invitation email.
 
 * As a way of avoiding unintentional SPAM, Trello only sends one invitation email.
 * Always check your SPAM first. 
@@ -47,6 +48,7 @@ Note: you can filter for a specific member
 * If the problem persists refer to Problems with email confirmation and password reset emails section of the troubleshoot.
 
 ## Problems with email confirmation and password reset
+There are several possible reasons you might face with email confimation and password reset.
 
 * First check your SPAM
 * Refer to the email form below and consider adding the header and domain to your address book or have your network administrator allow them.
