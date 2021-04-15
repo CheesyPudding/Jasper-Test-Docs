@@ -46,12 +46,3 @@ Note: you can filter for a specific member
   * Reply-To: @boards.trello.com, e.g. user+4d713bcb37a18a4697f+53e3d3ee31b131f05bf+8f1b94b27e@boards.trello.com
 * You can request to have the confirmation email resent with the link below if you are not using Trello with an Atlassian. https://trello.com/resendValidate
 
-
-
-
-Team member not receiving an invite email
-
-
-
-
-Problems with email confirmation and password reset emails.
