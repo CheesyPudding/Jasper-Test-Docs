@@ -28,8 +28,6 @@ For more information on lists vs. cards: [(see the glossary on cards and lists)]
 ## Create lists and cards
 After [creating a Trello board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/configuration/), you can add lists and cards to it. Each card represents a single task and each list consists of a list of tasks.
 
-<br />
-
 You will first need to add a list to the board before adding cards to the list.
 
 1. Navigate to your board's homepage by clicking on the home button and then your board.
@@ -70,14 +68,12 @@ You will first need to add a list to the board before adding cards to the list.
 ## Customize cards
 Now that you have created your lists with cards, customize them by adding members, adding a description for the task, labelling the task, and adding a due date of the task.
 
-<br />
-
 1. Right-click your card and select "Open Card".
 
-      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-1.png?raw=true "edit card")
+      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-1-image-1.png?raw=true "edit card")
 <br />
 
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/custimize-cards-step-1-2.png?raw=true "edit card menu")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-1-image-2.png?raw=true "edit card menu")
 <br />
 
    <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** Remove unwanted cards by clicking on the "Archive” button at the bottom of the above pop-up editing menu. Archiving a card will remove it from the board, but they can still be recovered the same way as a list. (see the note above in Step 3 on archiving a list for recovering a card).
@@ -85,13 +81,13 @@ Now that you have created your lists with cards, customize them by adding member
 
    You should now see the card editing menu where the card customization features are located.
 
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2 -&-step-4.png?raw=true "card editing menu")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-1-image-3.png?raw=true "card editing menu")
 <br />
 <br />
 
 2. Click “Members” on the right side under “Add to card” to add team members to a task.
 
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2-2.PNG?raw=true "assign member")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-2-image-1.png?raw=true "assign member")
 <br />
 <br />
 
@@ -99,7 +95,7 @@ Now that you have created your lists with cards, customize them by adding member
 
    Adding yourself to the task should change the task on the board to appear with your initials in an icon.
 
-      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2-3.PNG?raw=true "assigned task")
+      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-3-image-1.png.PNG?raw=true "assigned task")
 <br />
 
    <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** Cards can have multiple assigned members, but you will need to [invite members to your board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/customization/) first. 
@@ -112,21 +108,19 @@ Now that you have created your lists with cards, customize them by adding member
 
     You can discard or edit the description by clicking on the box again.
 
-      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-3.PNG?raw=true "description")
+      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-5-image-1.png?raw=true "description")
 <br />
 <br />
 
 6. Navigate back to the card editing menu as described in Step 1 and click on "Labels".
 
-    Adding coloured labels to a task can give it more visibility on a full or busy board.
-
-    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2 -&-step-4.png?raw=true "labels")
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-6-image-1.png?raw=true "labels")
 <br />
 
-   Here, you can click on labels to add to your card. You can also customize the colour and text on labels or delete a label by clicking the pencil icon on the right side of the label you want to edit.
+   Here, you can click on labels to add to your card. You can also customize the colour and text on labels or delete a label by clicking the pencil icon on the right side of the label you want to edit. Adding coloured labels to a task can give it more visibility on a full or busy board.
    
    
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-4-2.PNG?raw=true "labels again")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-6-image-2.png?raw=true "labels again")
 <br />
 <br />
 
@@ -137,14 +131,14 @@ Now that you have created your lists with cards, customize them by adding member
    <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** After setting a due date, click "Save" to save the due date to the card.
 <br />
 
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-5.PNG?raw=true "due date")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-7-image-1.png?raw=true "due date")
 <br />
 
    On the card editing menu, you should now see a "Due Date" pop-up above the task description.
    
    You can mark a task as complete by clicking on the due date checkbox. If you complete the task before the due date, you can set the due date to the date completed.
 
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-6.PNG?raw=true "task complete")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-customize-step-7-image-2.png?raw=true "task complete")
 
 Back on your Trello board, your customized and detailed task card should appear like:
 
