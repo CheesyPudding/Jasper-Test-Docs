@@ -7,7 +7,7 @@ nav_order: 5
 # Use lists and cards
 {: .no_toc }
 
-To delete Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
+To dele Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
 {: .fs-6 .fw-300 }
 
 For more information on lists vs. cards: [(see the glossary on cards and lists)](https://cheesypudding.github.io/Jasper-Test-Docs/docs/search/)
@@ -40,18 +40,22 @@ Now let’s first add a list to the board. Example below shows three lists To do
 
     <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove an unwanted or excessive list, click the three dots in the top-right corner of a list and click the last option “Archive this list” in the pop-up menu.
 
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2-NOTE.PNG?raw=true "remove list")
+<br />
 
-    Archiving a list will remove it from the board, but they can still be recovered by accessing the “... more” button on the right-side menu and clicking the “Archived items” button on the more menu. 
+   Archiving a list will remove it from the board, but they can still be recovered by accessing the “... more” button on the right-side menu and clicking the “Archived items” button on the more menu.
+   
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2-NOTE-2.PNG?raw=true "recover archive")
+<br />
+<br />
+   
 
 3. You can rearrange the order your cards in a list by holding on a card and dragging it up or down to the desired order.
 
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-3.PNG?raw=true "rearrange cards")
+<br />
+<br />
 
-
-
-
-
-
-  
 ---
 
 ## Customize cards
