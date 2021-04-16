@@ -7,7 +7,7 @@ nav_order: 5
 # Use lists and cards
 {: .no_toc }
 
-To delet Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
+To delete Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
 {: .fs-6 .fw-300 }
 
 For more information on lists vs. cards: [(see the glossary on cards and lists)](https://cheesypudding.github.io/Jasper-Test-Docs/docs/search/)
@@ -32,7 +32,7 @@ To fill our board with content, we will create a few lists and cards. Each card 
 Now let’s first add a list to the board. Example below shows three lists To do, Doing and Done. You can create more lists and you can give it any name you want. 
 1. Click on the "+ Add another list" icon as shown below.
 
-  ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-1.png?raw=true "add another list")
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-1.png?raw=true "add another list")
 <br />
 <br />
 
