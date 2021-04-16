@@ -33,7 +33,7 @@ There are several possible reasons why you cannot create a board.
 * Also, if you are the admin, you can first go to your Workspace Overview by clicking on the home button. Then, click on members and you can then set which member is able to send invitations or change the workplace settings.
 
 ## Team member not receiving an invite email
-There are several possible reasons why your team member might not be recieving an invitation email.
+There are several possible reasons why your team member might not be receiving an invitation email.
 
 **Check SPAM**
 * Always check your SPAM first. 
