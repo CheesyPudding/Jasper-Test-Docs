@@ -6,6 +6,8 @@ nav_order: 7
 
 # Glossary
 
+--- 
+
 **Board**
 
 A board represents a project or a place to keep track of information. Whether you are launching a new website, or planning a vacation, a Trello board is the place to organize your tasks and collaborate with your colleagues, family, or friends.
