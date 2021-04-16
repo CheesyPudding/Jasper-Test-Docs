@@ -146,12 +146,12 @@ Back on your Trello board, your customized and detailed task card should appear 
 <br />
 <br />
 
-In addition, Trello provides users with other unique features where users can explore and further customize tasks. For example, Power-Ups lets users integrate third party apps, such as a calendar or Google-Drive, to have all team documents and information connected to Trello.
+  In addition, Trello provides users with other unique features where users can explore and further customize tasks. For example, Power-Ups lets users integrate third party apps, such as a calendar or Google-Drive, to have all team documents and information connected to Trello.
 
    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-7-2.png?raw=true "power-ups")
 <br />
 <br />
 
-Great job! You have now successfully created tasks for your board. If you are having trouble using lists and cards, see [Troubleshooting](https://cheesypudding.github.io/Jasper-Test-Docs/docs/index-test/).
+  Great job! You have now successfully created tasks for your board. If you are having trouble using lists and cards, see [Troubleshooting](https://cheesypudding.github.io/Jasper-Test-Docs/docs/index-test/).
 
-Have you invited your team members to your board yet? If not, [invite members to your board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/customization/) to start collaborating.
+  Have you invited your team members to your board yet? If not, [invite members to your board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/customization/) to start collaborating.
