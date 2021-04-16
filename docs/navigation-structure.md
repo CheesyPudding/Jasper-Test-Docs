@@ -31,17 +31,10 @@ To fill our board with content, we will create a few lists and cards. Each card 
 
 Now let’s first add a list to the board. Example below shows three lists To do, Doing and Done. You can create more lists and you can give it any name you want. 
 1. Click on the "+ Add another list" icon as shown below.
-<br />
 
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-1.png?raw=true "add another list")
-<br />
-<br />
 
 2. You can create cards simply by clicking on the "+ Add a card" icon, and name the card to a specific task you must complete after creating a list.
-<br />
 
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2.png?raw=true "add a card")
-<br />
 
 <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove an unwanted or excessive list, click the three dots in the top-right corner of a list and click the last option “Archive this list” in the pop-up menu.
 <br />
