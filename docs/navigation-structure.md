@@ -34,7 +34,7 @@ You will first need to add a list to the board before adding cards to the list.
 
 1. Navigate to your board's homepage by clicking on the home button and then your board.
 
-    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-step-1-image-1?raw=true "navigate to board")
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-step-1-image-1.png?raw=true "navigate to board")
 <br />
 <br />
 
@@ -42,7 +42,7 @@ You will first need to add a list to the board before adding cards to the list.
 
    The example below shows three lists with the names To do, Doing, and Done. You can create more lists and give them any name.
    
-    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-1.png?raw=true "add another list")
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-step-2-image-1.png?raw=true "add another list")
 <br />
 <br />
 
@@ -50,18 +50,18 @@ You will first need to add a list to the board before adding cards to the list.
 
     <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove a list, click the three dots in the top-right corner of the list. Then click the last option “Archive this list” in the pop-up menu.
 
-    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2-NOTE.PNG?raw=true "remove list")
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-step-3-image-1.png?raw=true "remove list")
 <br />
 
    Archiving a list will remove it from the board, but they can still be recovered by accessing the “... more” button on the right-side menu and clicking the “Archived items” button on the more menu.
    
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2-NOTE-2.PNG?raw=true "recover archive")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-step-3-image-2.png?raw=true "recover archive")
 <br />
 <br />
    
    Rearrange the order of your cards in a list by clicking and dragging on a card and dragging it up or down to the desired order.
 
-   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-3.PNG?raw=true "rearrange cards")
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/lists-and-cards-step-3-image-3.png?raw=true "rearrange cards")
 <br />
 <br />
 
