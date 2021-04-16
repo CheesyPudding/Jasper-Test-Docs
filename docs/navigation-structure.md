@@ -7,7 +7,7 @@ nav_order: 5
 # Use lists and cards
 {: .no_toc }
 
-To dele Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
+To delet Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
 {: .fs-6 .fw-300 }
 
 For more information on lists vs. cards: [(see the glossary on cards and lists)](https://cheesypudding.github.io/Jasper-Test-Docs/docs/search/)
@@ -63,16 +63,35 @@ We will now fill our empty cards by detailing them with some features in Trello.
 
 1. First, we will edit our cards with some task details. You can edit the card by right-clicking on it and selecting “Open Card”, or by clicking the card.
 
-
-    This is the card editing menu where you can now freely edit the card. There are many options in this menu. 
-
-
-2. Click the first button “Members” on the “Add to card” list on the right side to start assigning yourself to a task.
+      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-1.png?raw=true "edit card")
 <br />
 
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/custimize-cards-step-1-2.png?raw=true "edit card menu")
+<br />
+
+   <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove an unwanted card, follow this step and click the "Archive” button at the very bottom of the pop-up editing menu when right-clicking a card. Archiving a card will remove it from the board, but they can still be recovered the same way as a list. (see the note on archiving a list for recovering a card)
+<br />
+
+   This is the card editing menu where you can now freely edit the card. There are many options in this menu. 
+
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2 -&-step-4.png?raw=true "card editing menu")
+<br />
+<br />
+
+2. Click the first button “Members” on the “Add to card” list on the right side to start assigning yourself to a task.
+
+   ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2-2.PNG?raw=true "assign member")
+<br />
+<br />
 
 3. Next, select the member(s) you would like to assign to the task. For example, adding yourself to the task should change the task on the board to appear with your initials in an icon.
 
+      ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-2-3.PNG?raw=true "assigned task")
+<br />
+
+   <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** Cards can have multiple assigned members, but you will need to invite members to your board first. [(see the instructions on inviting members to a board)](https://cheesypudding.github.io/Jasper-Test-Docs/docs/customization/)
+<br />
+<br />
 
 4. Next, let’s add a short description that gives the task a little more info. First access the card editing menu again and click on the box in the middle of the menu underneath the “Description” tag. 
 
