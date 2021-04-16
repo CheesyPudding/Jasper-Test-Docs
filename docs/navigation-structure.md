@@ -36,6 +36,11 @@ Now let’s first add a list to the board. Example below shows three lists To do
 2. You can create cards simply by clicking on the "+ Add a card" icon, and name the card to a specific task you must complete after creating a list.
 
 
+
+
+3. You can rearrange the order your cards in a list by holding on a card and dragging it up or down to the desired order.
+
+
 <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove an unwanted or excessive list, click the three dots in the top-right corner of a list and click the last option “Archive this list” in the pop-up menu.
 <br />
 
@@ -44,8 +49,8 @@ Archiving a list will remove it from the board, but they can still be recovered 
 <br />
 
 
-3. You can rearrange the order your cards in a list by holding on a card and dragging it up or down to the desired order.
-<br />
+
+
   
 ---
 
