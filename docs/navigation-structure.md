@@ -7,7 +7,7 @@ nav_order: 5
 # Use lists and cards
 {: .no_toc }
 
-To delete Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
+Lists and cards comprise the main content of a Trello board. This page will focus all on managing and maintaining your lists and cards on a Trello board.
 {: .fs-6 .fw-300 }
 
 For more information on lists vs. cards: [(see the glossary on cards and lists)](https://cheesypudding.github.io/Jasper-Test-Docs/docs/search/)
@@ -26,19 +26,28 @@ For more information on lists vs. cards: [(see the glossary on cards and lists)]
 ---
 
 ## Create lists and cards
-To fill our board with content, we will create a few lists and cards. Each card represents a single task and each list consists of a list of tasks.
+After [creating a Trello board](https://cheesypudding.github.io/Jasper-Test-Docs/docs/configuration/), you can add lists and cards to it. Each card represents a single task and each list consists of a list of tasks.
 
 
-Now let’s first add a list to the board. Example below shows three lists To do, Doing and Done. You can create more lists and you can give it any name you want. 
-1. Click on the "+ Add another list" icon as shown below.
+You will first need to add a list to the board before adding cards to the list.
 
+1. Navigate to your board's homepage.
+
+    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/imagescreate-a-board-step-1-image-1.png?raw=true "add another list")
+<br />
+<br />
+
+2. Click on the "+ Add another list" icon.
+
+   The example below shows three lists: To do, Doing, and Done. You can create more lists and give your list any name.
+   
     ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-1.png?raw=true "add another list")
 <br />
 <br />
 
-2. You can create cards simply by clicking on the "+ Add a card" icon, and name the card to a specific task you must complete after creating a list.
+3. Click on the "+ Add a card" icon to create cards on the list, and give the card a name, which indicates a specific task for your project.
 
-    <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove an unwanted or excessive list, click the three dots in the top-right corner of a list and click the last option “Archive this list” in the pop-up menu.
+    <img align="left" src="https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/alert.png?raw=true">**NOTE** To remove a list, click the three dots in the top-right corner of the list. Then click the last option “Archive this list” in the pop-up menu.
 
     ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-2-NOTE.PNG?raw=true "remove list")
 <br />
@@ -50,7 +59,7 @@ Now let’s first add a list to the board. Example below shows three lists To do
 <br />
    
 
-3. You can rearrange the order your cards in a list by holding on a card and dragging it up or down to the desired order.
+3. Rearrange the order of your cards in a list by clicking and dragging on a card and dragging it up or down to the desired order.
 
    ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/create-lists-and-cards-step-3.PNG?raw=true "rearrange cards")
 <br />
