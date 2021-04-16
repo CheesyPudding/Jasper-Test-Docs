@@ -7,7 +7,7 @@ nav_order: 5
 # Use lists and cards
 {: .no_toc }
 
-To delete Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
+To delet Lists and cards comprise the main content of a trello board. This page will focus all on managing and maintaining your lists and cards on a trello board.
 {: .fs-6 .fw-300 }
 
 For more information on lists vs. cards: [(see the glossary on cards and lists)](https://cheesypudding.github.io/Jasper-Test-Docs/docs/search/)
@@ -122,7 +122,7 @@ We will now fill our empty cards by detailing them with some features in Trello.
     ![](https://github.com/CheesyPudding/Jasper-Test-Docs/blob/gh-pages/assets/images/customize-cards-step-5.PNG?raw=true "due date")
 <br />
 
-Finally, we can mark a task as complete once a task passes the due date. If you complete the task before the due date, simply set the due date to the date completed first. 
+  Finally, we can mark a task as complete once a task passes the due date. If you complete the task before the due date, simply set the due date to the date completed first. 
 
 9. On the card editing menu, a pop-up will appear above the description that indicates the due date. Click the box to add a checkmark and your task should now be marked as completed.
 
